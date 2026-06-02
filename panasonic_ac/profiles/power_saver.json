@@ -1,0 +1,26 @@
+{
+    "name": "Power Saver",
+    "description": "High temperature and low power convert level for max savings",
+    "actions": [
+        {
+            "type": "power",
+            "value": "ON"
+        },
+        {
+            "type": "temperature",
+            "value": 27
+        },
+        {
+            "type": "convert",
+            "value": "40"
+        },
+        {
+            "type": "fan",
+            "value": "AUTO"
+        },
+        {
+            "type": "notification",
+            "value": "Power Saver profile activated. 27\u00b0C @ 40%"
+        }
+    ]
+}

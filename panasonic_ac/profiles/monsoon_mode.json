@@ -1,0 +1,30 @@
+{
+    "name": "Monsoon Mode",
+    "description": "Dehumidification focus for humid rainy days",
+    "actions": [
+        {
+            "type": "power",
+            "value": "ON"
+        },
+        {
+            "type": "mode",
+            "value": "DRY"
+        },
+        {
+            "type": "temperature",
+            "value": 25
+        },
+        {
+            "type": "convert",
+            "value": "70"
+        },
+        {
+            "type": "fan",
+            "value": "AUTO"
+        },
+        {
+            "type": "notification",
+            "value": "Monsoon Mode activated: Dehumidifying @ 25\u00b0C"
+        }
+    ]
+}

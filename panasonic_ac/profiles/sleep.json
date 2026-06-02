@@ -1,0 +1,42 @@
+{
+    "name": "Sleep",
+    "description": "Gradually cools and saves power during sleep",
+    "actions": [
+        {
+            "type": "power",
+            "value": "ON"
+        },
+        {
+            "type": "temperature",
+            "value": 26
+        },
+        {
+            "type": "convert",
+            "value": "55"
+        },
+        {
+            "type": "fan",
+            "value": "AUTO"
+        },
+        {
+            "type": "notification",
+            "value": "Sleep profile started. Initial cooling: 26\u00b0C @ 55%"
+        },
+        {
+            "type": "delay",
+            "value": 7200
+        },
+        {
+            "type": "temperature",
+            "value": 27
+        },
+        {
+            "type": "convert",
+            "value": "40"
+        },
+        {
+            "type": "notification",
+            "value": "Sleep profile phase 2: Temp increased to 27\u00b0C @ 40%"
+        }
+    ]
+}

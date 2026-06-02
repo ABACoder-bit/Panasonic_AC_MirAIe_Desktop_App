@@ -1,0 +1,17 @@
+# Ignore local AC settings containing your credentials
+panasonic_ac/settings.json
+
+# Ignore local AC logs
+panasonic_ac/logs/
+
+# Ignore local generated icons
+panasonic_ac/assets/
+
+# Ignore Python compiled cache
+**/__pycache__/
+*.pyc
+
+# Ignore PyInstaller build folders and files
+build/
+dist/
+*.spec

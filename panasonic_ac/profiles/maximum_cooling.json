@@ -1,0 +1,30 @@
+{
+    "name": "Maximum Cooling",
+    "description": "Full power cooling to chill the room quickly",
+    "actions": [
+        {
+            "type": "power",
+            "value": "ON"
+        },
+        {
+            "type": "temperature",
+            "value": 18
+        },
+        {
+            "type": "convert",
+            "value": "HC"
+        },
+        {
+            "type": "fan",
+            "value": "HIGH"
+        },
+        {
+            "type": "mode",
+            "value": "COOL"
+        },
+        {
+            "type": "notification",
+            "value": "Maximum Cooling activated! 18\u00b0C @ High Speed"
+        }
+    ]
+}

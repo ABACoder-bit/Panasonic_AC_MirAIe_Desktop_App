@@ -1,0 +1,26 @@
+{
+    "name": "Guest Mode",
+    "description": "Comfortable settings with normal speed operation",
+    "actions": [
+        {
+            "type": "power",
+            "value": "ON"
+        },
+        {
+            "type": "temperature",
+            "value": 24
+        },
+        {
+            "type": "convert",
+            "value": "OFF"
+        },
+        {
+            "type": "fan",
+            "value": "AUTO"
+        },
+        {
+            "type": "notification",
+            "value": "Guest Mode activated: Comfort cooling at 24\u00b0C"
+        }
+    ]
+}

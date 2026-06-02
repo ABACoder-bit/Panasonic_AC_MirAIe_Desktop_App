@@ -1,0 +1,26 @@
+{
+    "name": "Summer Day",
+    "description": "Robust cooling for hot afternoon temperatures",
+    "actions": [
+        {
+            "type": "power",
+            "value": "ON"
+        },
+        {
+            "type": "temperature",
+            "value": 23
+        },
+        {
+            "type": "convert",
+            "value": "80"
+        },
+        {
+            "type": "fan",
+            "value": "AUTO"
+        },
+        {
+            "type": "notification",
+            "value": "Summer Day cooling active: 23\u00b0C @ 80%"
+        }
+    ]
+}

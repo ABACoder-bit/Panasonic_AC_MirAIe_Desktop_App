@@ -1,0 +1,7 @@
+miraie-ac==1.1.1
+pystray==0.19.5
+pillow==11.2.1
+pywin32==311
+gmqtt==0.6.16
+aiohttp==3.13.3
+certifi==2026.1.4

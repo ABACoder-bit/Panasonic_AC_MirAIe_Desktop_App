@@ -1,0 +1,26 @@
+{
+    "name": "Summer Night",
+    "description": "Optimal cooling profile for warm summer nights",
+    "actions": [
+        {
+            "type": "power",
+            "value": "ON"
+        },
+        {
+            "type": "temperature",
+            "value": 25
+        },
+        {
+            "type": "convert",
+            "value": "55"
+        },
+        {
+            "type": "fan",
+            "value": "AUTO"
+        },
+        {
+            "type": "notification",
+            "value": "Summer Night profile active: 25\u00b0C @ 55%"
+        }
+    ]
+}
