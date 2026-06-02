@@ -41,7 +41,7 @@ panasonic_ac/
 ### Installation Steps
 1. Open PowerShell and navigate to the project directory:
    ```powershell
-   cd "d:\Projects_all\In_Progress\AC"
+   cd "Path_to_the_file\AC"
    ```
 2. Install the required dependencies:
    ```powershell
